@@ -172,7 +172,7 @@ public class ProfileController implements Initializable {
 
                     Platform.runLater(() -> {
                         try {
-                            new SceneSwitcher().switchSceneTo("resources/emailVerification.fxml");
+                            new SceneSwitcher().switchSceneTo("emailVerification.fxml");
                         } catch (IOException e) {
                             e.printStackTrace();
                         }
