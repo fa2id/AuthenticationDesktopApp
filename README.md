@@ -1,2 +1,10 @@
-# Authentication-Desktop-App---JavaFX-and-MySQL
-A desktop app created by JavaFX and MySQL database for authentication (Login, Registration, Forget Password, Email Verification and Simple Profile with high security SHA-512 plus salting).
+# AuthenticationDesktopApp 
+A desktop app created by JavaFX and MySQL database for authentication 
+
+# Features
+<br>1- Login
+<br>2- Registration
+<br>3- Forget Password
+<br>4- Email Verification
+<br>5- Simple Profile
+<br>6- High security (SHA-512 plus salting)
